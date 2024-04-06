@@ -1,0 +1,10 @@
+assets/
+target/
+.idea/
+.vscode/
+.eclipse/
+bin/
+.settings/
+**/application.log
+.DS_Store
+**/.DS_Store
